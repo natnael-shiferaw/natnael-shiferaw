@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an ALX Certified Software engineer with 2+ years experience in full stack development
+I am an ALX Certified Software engineer with 2+ years experience in full stack development and a 4th year Software engineering student at Addis Ababa Science and Technology University
 
 
 ## 🌐 Socials:
