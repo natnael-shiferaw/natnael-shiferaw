@@ -1,13 +1,15 @@
 # 💫 About Me
 
-I'm a Backend-specialized **ALX Certified Software Engineer** with over **2 years** of hands-on experience building robust full-stack applications. Currently, I'm in my fourth year of Software Engineering at **Addis Ababa Science and Technology University**, where I combine academic insights with practical development to deliver scalable, user-centric solutions.
+I'm an **ALX Certified Software Engineer** with over **2 years** of hands-on experience building robust full-stack applications. Currently, I'm in my fourth year of Software Engineering at **Addis Ababa Science and Technology University**, where I combine academic insights with practical development to deliver scalable, user-centric solutions.
 
 ## 🏆 Certifications
 
 * **ALX Software Engineering** (Backend Specialization)
+
   ![image](https://github.com/user-attachments/assets/11c24e74-9979-477f-997a-522b4d7cacbf)
 
 * **ALX ProDev Frontend Developer Certificate**
+
   ![image](https://github.com/user-attachments/assets/0e2832d9-7659-4ae2-82f1-7d40520740ea)
 
 
